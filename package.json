@@ -1,0 +1,28 @@
+{
+  "name": "gurustrap",
+  "version": "1.0.1",
+  "author": "Gergely Marton <guru@webgurus.biz>",
+  "homepage": "http://webgurus.biz",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/webgurus/gurustrap.git"
+  },
+  "bugs": {
+    "url" : "https://github.com/webgurus/gurustrap/issues"
+  },
+  "licenses": [{
+    "type": "MIT",
+    "url": "http://opensource.org/licenses/MIT"
+  }],
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-clean": "~0.5.0",
+    "grunt-contrib-jshint": "~0.6.4",
+    "grunt-contrib-uglify": "~0.2.4",
+    "grunt-contrib-watch": "~0.5.3",
+    "grunt-contrib-less": "~0.8.1",
+  }
+}
