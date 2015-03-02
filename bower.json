@@ -1,9 +1,9 @@
 {
-  "name": "roots",
-  "version": "7.0.2",
-  "homepage": "http://roots.io",
+  "name": "gurustrap",
+  "version": "7.0.3",
+  "homepage": "http://webgurus.biz",
   "authors": [
-    "Ben Word <ben@benword.com>"
+    "Gergely Marton <guru@webgurus.biz>"
   ],
   "license": "MIT",
   "private": true,
@@ -15,7 +15,7 @@
   "dependencies": {
     "modernizr": "2.8.2",
     "jquery": "1.11.1",
-    "bootstrap": "3.3.0",
+    "bootstrap": "3.3.1",
     "respond": "1.4.2"
   }
 }
