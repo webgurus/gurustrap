@@ -16,7 +16,7 @@ bower install
 
 ## Theme Development
 
-After you've installed Grunt and ran `npm install` from the app root, use `gulp watch` to watch for updates to your SASS and JS files and Gulp will automatically re-build as you write your code.
+After you've installed Gulp and ran `npm install` from the app root, use `gulp watch` to watch for updates to your SASS and JS files and Gulp will automatically re-build as you write your code.
 
 
 ## Features
